@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m Telecommunications Engineering
-- 🌱 I’m currently MSc Student
+- 🌱 I’m currently studing MSc in Electrical Engineering
 - 📫 How to reach me: I will place...
 
 <div align="left">
