@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m Telecommunications Engineer
+- 🛰️ I’m Telecommunications Engineer
 - 🌱 I’m currently studing MSc in Electrical Engineering
 - 📫 How to reach me: I will place...
 
